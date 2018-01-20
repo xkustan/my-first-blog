@@ -1,0 +1,7 @@
+# . git ignore
+
+/db.sqlite3
+/myvenv
+__pycache__
+.idea/
+.DS_Store
